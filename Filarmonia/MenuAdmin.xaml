@@ -1,0 +1,17 @@
+﻿<Window x:Class="Filarmonia.MenuAdmin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Filarmonia"
+        mc:Ignorable="d"
+        Title="Меню администратора" Height="375.949" Width="563.038" Background="#c4d6a0" >
+    <Grid>
+        <Label Content="Меню администратора" HorizontalAlignment="Left" Margin="119,26,0,0" VerticalAlignment="Top" Width="329" Height="60" FontSize="30"/>
+        <Button x:Name="User" Content="Меню пользователей" Background="#ffffff" HorizontalAlignment="Left" Margin="24,111,0,0" VerticalAlignment="Top" Width="140" Height="58" RenderTransformOrigin="1.646,0.583" Click="User_Click"/>
+        <Button x:Name="Soorugen" Content="Меню сооружений" Background="#ffffff" HorizontalAlignment="Left" Margin="308,192,0,0" VerticalAlignment="Top" Width="140" Height="58" RenderTransformOrigin="1.646,0.583" Click="Soorugen_Click"/>
+        <Button x:Name="Type_Soorugen" Content="Меню типов &#xD;&#xA;сооружений" Background="#ffffff" HorizontalAlignment="Left" Margin="389,111,0,0" VerticalAlignment="Top" Width="140" Height="58" RenderTransformOrigin="1.646,0.583" Click="Type_Soorugen_Click"/>
+        <Button x:Name="Xaracter" Content="Меню характеристик &#xD;&#xA;         сооружений" Background="#ffffff" HorizontalAlignment="Left" Margin="203,111,0,0" VerticalAlignment="Top" Width="140" Height="58" RenderTransformOrigin="1.646,0.583" Click="Xaracter_Click"/>
+        <Button x:Name="Spisok_Xaracter" Content="Меню списка &#xD;&#xA;характеристик" Background="#ffffff" HorizontalAlignment="Left" Margin="117,192,0,0" VerticalAlignment="Top" Width="140" Height="58" RenderTransformOrigin="1.646,0.583" Click="Spisok_Xaracter_Click"/>
+    </Grid>
+</Window>

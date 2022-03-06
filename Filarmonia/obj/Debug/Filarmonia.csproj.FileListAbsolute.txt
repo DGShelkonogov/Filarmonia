@@ -1,0 +1,127 @@
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\Filarmonia.csproj.AssemblyReference.cache
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\Actor.g.cs
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\ActorEvent.g.cs
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\ActorForActor.g.cs
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\Award.g.cs
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\Ever.g.cs
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\Genre.g.cs
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\GenreActor.g.cs
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\MenuActor.g.cs
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\MenuAdmin.g.cs
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\MainWindow.g.cs
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\MenuImpresario.g.cs
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\MenuOrganizator.g.cs
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\MenuUser.g.cs
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\RedacAward.g.cs
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\Soorugen.g.cs
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\SpisokActor.g.cs
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\SpisokGenre.g.cs
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\SpisokSoorugen.g.cs
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\TypeSoorugen.g.cs
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\XaracterSoorugen.g.cs
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\App.g.cs
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\Filarmonia_MarkupCompile.cache
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\Filarmonia_MarkupCompile.lref
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\bin\Debug\Filarmonia.exe.config
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\bin\Debug\Filarmonia.exe
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\bin\Debug\Filarmonia.pdb
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\Actor.baml
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\ActorEvent.baml
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\ActorForActor.baml
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\Award.baml
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\Ever.baml
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\Genre.baml
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\GenreActor.baml
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\MenuActor.baml
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\MenuAdmin.baml
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\MainWindow.baml
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\MenuImpresario.baml
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\MenuOrganizator.baml
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\MenuUser.baml
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\RedacAward.baml
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\Soorugen.baml
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\SpisokActor.baml
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\SpisokGenre.baml
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\SpisokSoorugen.baml
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\TypeSoorugen.baml
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\XaracterSoorugen.baml
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\Filarmonia.g.resources
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\Filarmonia.Properties.Resources.resources
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\Filarmonia.csproj.GenerateResource.cache
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\Filarmonia.csproj.CoreCompileInputs.cache
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\Filarmonia.exe
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\Filarmonia.pdb
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\Post.g.cs
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\Post.baml
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\Award2.g.cs
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\Soorugen2.g.cs
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\Actor2.g.cs
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\User.g.cs
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\Award2.baml
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\Soorugen2.baml
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\Actor2.baml
+C:\Users\Amina\source\repos\Filarmonia\Filarmonia\obj\Debug\User.baml
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\Filarmonia.csproj.AssemblyReference.cache
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\Filarmonia.csproj.SuggestedBindingRedirects.cache
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\Actor.g.cs
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\ActorEvent.g.cs
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\ActorForActor.g.cs
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\Award.g.cs
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\Award2.g.cs
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\Ever.g.cs
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\Genre.g.cs
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\GenreActor.g.cs
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\MenuActor.g.cs
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\MenuAdmin.g.cs
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\MainWindow.g.cs
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\MenuImpresario.g.cs
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\MenuOrganizator.g.cs
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\MenuUser.g.cs
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\Post.g.cs
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\RedacAward.g.cs
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\Soorugen.g.cs
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\Soorugen2.g.cs
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\SpisokActor.g.cs
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\SpisokGenre.g.cs
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\SpisokSoorugen.g.cs
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\TypeSoorugen.g.cs
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\Actor2.g.cs
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\User.g.cs
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\XaracterSoorugen.g.cs
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\App.g.cs
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\Filarmonia_MarkupCompile.cache
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\Filarmonia_MarkupCompile.lref
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\Filarmonia.exe
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\Filarmonia.pdb
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\bin\Debug\Filarmonia.exe.config
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\bin\Debug\Filarmonia.exe
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\bin\Debug\Filarmonia.pdb
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\Actor.baml
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\ActorEvent.baml
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\ActorForActor.baml
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\Award.baml
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\Award2.baml
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\Ever.baml
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\Genre.baml
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\GenreActor.baml
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\MenuActor.baml
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\MenuAdmin.baml
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\MainWindow.baml
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\MenuImpresario.baml
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\MenuOrganizator.baml
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\MenuUser.baml
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\Post.baml
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\RedacAward.baml
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\Soorugen.baml
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\Soorugen2.baml
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\SpisokActor.baml
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\SpisokGenre.baml
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\SpisokSoorugen.baml
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\TypeSoorugen.baml
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\Actor2.baml
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\User.baml
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\XaracterSoorugen.baml
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\Filarmonia.g.resources
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\Filarmonia.Properties.Resources.resources
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\Filarmonia.csproj.GenerateResource.cache
+C:\Users\dana\Desktop\УП 2.16\руководство пользования\Filarmonia\Filarmonia\obj\Debug\Filarmonia.csproj.CoreCompileInputs.cache

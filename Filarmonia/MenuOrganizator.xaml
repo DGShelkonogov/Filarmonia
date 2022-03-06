@@ -1,0 +1,15 @@
+﻿<Window x:Class="Filarmonia.MenuOrganizator"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Filarmonia"
+        mc:Ignorable="d"
+      Title="Меню организатора" Height="375.949" Width="502.391" Background="#c4d6a0" >
+    <Grid>
+        <Label Content="Меню организатора" HorizontalAlignment="Left" Margin="102,25,0,0" VerticalAlignment="Top" Width="297" Height="60" FontSize="30"/>
+        <Button x:Name="Ever_M" Content="Меню мероприятий" Background="#ffffff" HorizontalAlignment="Left" Margin="74,111,0,0" VerticalAlignment="Top" Width="140" Height="58" RenderTransformOrigin="1.646,0.583" Click="Ever_M_Click"/>
+        <Button x:Name="Award" Content="Меню наград" Background="#ffffff" HorizontalAlignment="Left" Margin="287,111,0,0" VerticalAlignment="Top" Width="140" Height="58" RenderTransformOrigin="1.646,0.583" Click="Award_Click"/>
+        <Button x:Name="Actor_M" Content="Меню актеров" Background="#ffffff" HorizontalAlignment="Left" Margin="179,190,0,0" VerticalAlignment="Top" Width="140" Height="58" RenderTransformOrigin="1.646,0.583" Click="Actor_M_Click"/>
+    </Grid>
+</Window>
